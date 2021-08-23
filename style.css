@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  display: block;
+  font-size: 4rem;
+  font-style: italic;
+}
+input {
+  padding: 5px;
+  text-align: center;
+  font-size: 2rem;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 4px;
+  display: block;
+  height: 3rem;
+}
+button {
+  margin: auto;
+  /* margin-bottom: 4px; */
+  display: block;
+  padding: 0.5rem;
+  font-size: 2rem;
+  border-radius: 1rem;
+}
+#output-box {
+  font-size: 2.5rem;
+  display: block;
+  text-align: center;
+}
